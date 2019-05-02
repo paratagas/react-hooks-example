@@ -6,7 +6,6 @@
 build
 coverage
 dist
-docs
 node_modules
 
 # Logs
